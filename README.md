@@ -1,6 +1,7 @@
 # Basic Data Consult: SQL/R/SQLite/RSQLite
 
 Repositório destinado ao meu aprendizado em análise de dados.
+
 A execução do código foi feito no **Google Colab** para uma melhor visualização.
 
 ## Descrição:
