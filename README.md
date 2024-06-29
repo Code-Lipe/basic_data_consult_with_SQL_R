@@ -1,6 +1,7 @@
 # Basic Data Consult: SQL/R/SQLite/RSQLite
 
 Repositório destinado ao meu aprendizado em análise de dados.
+A execução do código foi feito no **Google Colab** para uma melhor visualização.
 
 ## Descrição:
 Conectando a um banco de dados com SQLite/RSQLite, criando e consultando objetos de banco de dados a partir de um bloco de anotações R no Jupyter e usaremos ggplot2 para plotar os dados usando bibliotecas R.
